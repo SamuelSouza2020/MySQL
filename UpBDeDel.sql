@@ -2,4 +2,4 @@ DROP DATABASE cadastro;
 
 CREATE DATABASE cadastro
 DEFAULT CHARACTER SET utf8
-DEFAULT COLLATE utf_general_ci;
+DEFAULT COLLATE utf8_general_ci;
