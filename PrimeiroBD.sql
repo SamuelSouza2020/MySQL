@@ -10,3 +10,5 @@ peso FLOAT,
 altura FLOAT,
 macionalidade VARCHAR(20)
 );
+
+DESCRIBE pessoas;
