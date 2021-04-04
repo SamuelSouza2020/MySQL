@@ -15,3 +15,6 @@ create table funcionario
   salario numeric (7,2)
 )
 GO
+
+select count(*) from funcionario
+GO
