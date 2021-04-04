@@ -1,6 +1,9 @@
-create database empresa;
+create database empresa
+GO
 
-use empresa;
+use empresa
+GO
+
 create table funcionario
 (
 	id_func int auto_increment primary key,
@@ -10,4 +13,5 @@ create table funcionario
   data_adm date,
 	endereco varchar(50),
   salario numeric (7,2)
-);
+)
+GO
